@@ -1,7 +1,13 @@
 # 🚨 EXPEDIENTE DE EVIDENCIAS CRÍTICAS DE PLAGIO
 **Fecha de Auditoría:** 06/04/2026 06:10
+
+
 **Documento A (Referencia):** TesisBenignoChoc_COMPLETO_MASTER.md
+
+
 **Documento B (Sospecha):** Tesis_ConsueloPorras_COMPLETO_MASTER.md
+
+
 
 ## RESUMEN
 Se han encontrado **59** coincidencias con un nivel de similitud superior al 50%.
